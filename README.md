@@ -16,4 +16,3 @@ Projeto Galeria por API utilizando JS
 
 ## Autor
 - [Rebeka Marcelino do Prado](www.linkedin.com/in/rebekamarcelino)
-"# IMAGENS-API" 
